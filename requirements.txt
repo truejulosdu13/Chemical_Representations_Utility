@@ -1,9 +1,0 @@
-# conda create -n chem_rep
-conda install jupyter matplotlib scipy
-conda install pandas
-conda install scikit-learn
-conda install seaborn
-conda install -c conda-forge rdkit
-# note if deepchem needs to be used (for notebook_7 and after) the python version must be < 3.10, if not you can try a "pip install deepchem".
-conda install mordred
-
