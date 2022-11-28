@@ -1,0 +1,12 @@
+name: chem_rep
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - matplotlib
+  - scipy
+  - pandas
+  - scikit-learn
+  - seaborn
+  - rdkit
+  - mordred
